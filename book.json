@@ -9,7 +9,31 @@
 
     "plugins": ["donate",
         "github-buttons",
-        "edit-link"],
+        "edit-link",
+        "toolbar-button",
+        "theme-comscore",
+        "anchors",
+        "-lunr",
+        "-search",
+        "search-plus",
+        "disqus",
+        "-highlight",
+        "prism",
+        "prism-themes",
+        "github-buttons",
+        "splitter",
+        "-sharing",
+        "sharing-plus",
+        "tbfed-pagefooter",
+        "expandable-chapters-small",
+        "copy-code-button",
+        "callouts",
+        "lightbox",
+        "pageview-count",
+        "chapter-fold",
+        "expandable-chapters-small",
+        "anchor-navigation-ex",
+        "multipart"],
     "pluginsConfig": {
         "donate": {
             "wechat": "https://lotzxj.gitee.io/hjtech/images/wechatpay.png",
@@ -31,8 +55,86 @@
         "edit-link": {
             "base": "https://github.com/ZakijxZ/MatlabTutorial/edit/master",
             "label": "编辑"
-        }
+        },
 
+        "toolbar-button": {
+            "url": "待修改",
+            "icon": "fa-file-pdf-o",
+            "label": "下载PDF"
+        },
+
+
+        "callouts": {
+            "showTypeInHeader": false
+        },
+
+
+        "theme-default": {
+            "showLevel": false
+        },
+
+        "disqus": {
+            "shortName": "lotz"
+        },
+          "prism": {
+            "css": [
+              "prism-themes/themes/prism-atom-dark.css"
+            ]
+        },
+
+
+
+
+
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": true,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": [
+              "douban",
+              "facebook",
+              "google",
+              "instapaper",
+              "line",
+              "linkedin",
+              "messenger",
+              "pocket",
+              "qq",
+              "qzone",
+              "stumbleupon",
+              "twitter",
+              "viber",
+              "vk",
+              "weibo",
+              "whatsapp"
+            ]
+        },
+
+
+
+        "tbfed-pagefooter": {
+            "copyright": "<a href='https://zakijxz.github.io/'>Z先森</a>，使用<a href='https://creativecommons.org/licenses/by/4.0/deed.zh'>署名4.0国际(CC BY 4.0)协议</a>发布",
+            "modify_label": "最后更新：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "anchor-navigation-ex":{
+            "showLevel":false,
+            "showGoTop":true
+        }
 
 
 
