@@ -54,12 +54,12 @@
             ]
         },
         "edit-link": {
-            "base": "https://github.com/ZakijxZ/MatlabTutorial/edit/master",
+            "base": "https://github.com/ZakijxZ/Gitbook/edit/master",
             "label": "编辑"
         },
 
         "toolbar-button": {
-            "url": "待修改",
+            "url": "待修改,给定下载文件目录",
             "icon": "fa-file-pdf-o",
             "label": "下载PDF"
         },
