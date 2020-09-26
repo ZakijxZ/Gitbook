@@ -34,7 +34,11 @@
         "chapter-fold",
         "expandable-chapters-small",
         "anchor-navigation-ex",
-        "multipart"],
+        "multipart",
+        "custom-favicon",
+        "insert-logo",
+        "auto-scroll-table",
+        "klipse"],
     "pluginsConfig": {
         "donate": {
             "wechat": "https://lotzxj.gitee.io/hjtech/images/wechatpay.png",
@@ -136,6 +140,11 @@
         "anchor-navigation-ex": {
             "showLevel":false,
             "showGoTop":true
+        },
+        "favicon": "assets/images/favicon.png",
+        "insert-logo": {
+            "url": "https://github.com/ZakijxZ/ZakijxZ.github.io/blob/master/images/avatar.gif?raw=true",
+            "style": "background: none;"
         }
         
 
@@ -155,4 +164,14 @@
         "headerTemplate": null,
         "footerTemplate": null
     }
+
+    
+
+    
+
+
+
+    
+
+    
 }
