@@ -2,3 +2,6 @@ _book/
 node_modules/
 *.zip
 .DS_Store
+*.pdf
+*.epub
+*.mobi
