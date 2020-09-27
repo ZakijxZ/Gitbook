@@ -35,7 +35,6 @@
         "expandable-chapters-small",
         "anchor-navigation-ex",
         "multipart",
-        "insert-logo",
         "auto-scroll-table",
         "klipse",
         "favicon-absolute"],
@@ -140,11 +139,6 @@
         "anchor-navigation-ex": {
             "showLevel":false,
             "showGoTop":true
-        },
-        
-        "insert-logo": {
-            "url": "/favicon.ico",
-            "style": "background: none;"
         },
         "favicon-absolute":{
             "favicon": "/favicon.ico",
