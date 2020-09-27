@@ -143,11 +143,11 @@
         },
         
         "insert-logo": {
-            "url": "https://github.com/ZakijxZ/ZakijxZ.github.io/blob/master/images/avatar.gif?raw=true",
+            "url": "/favicon.ico",
             "style": "background: none;"
         },
         "favicon-absolute":{
-            "favicon": "/favicon.png",
+            "favicon": "/favicon.ico",
             "appleTouchIconPrecomposed152": "/apple-touch-icon-precomposed-152.png"
         }
         
