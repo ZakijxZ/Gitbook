@@ -141,7 +141,7 @@
             "showGoTop":true
         },
         "favicon-absolute":{
-            "favicon": "/favicon.ico",
+            "favicon": "/favicon-32x32.png",
             "appleTouchIconPrecomposed152": "/apple-touch-icon-precomposed-152.png"
         }
         
